@@ -1,0 +1,1 @@
+https://github.com/getsentry/sentry-auth-saml2/archive/master.zip
